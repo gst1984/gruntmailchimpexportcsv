@@ -44,5 +44,7 @@ grunt.initConfig({
 ### Options
 
 apiKey - Mailchimp API - Key
+
 listId - Mailchimp ListId (Attention there are two listIds - don't take the one from the web but from the lists/list call.
+
 csvFile - outputfile
